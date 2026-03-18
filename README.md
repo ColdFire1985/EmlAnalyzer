@@ -50,7 +50,7 @@
 <pre><code>$VT_API_KEY = $env:VT_API_KEY</code></pre>
 
 <h3>3. Run the script</h3>
-<p>Right-click <code>MailViewer.ps1</code> and select <strong>Run with PowerShell</strong>.</p>
+<p>Right-click <code>Viewer.ps1</code> and select <strong>Run with PowerShell</strong>.</p>
 
 <hr />
 
